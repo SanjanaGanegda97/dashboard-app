@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div>
-      <h3>First App</h3>
+      <h3>First Apps</h3>
 
       {
         users.map(user => {
